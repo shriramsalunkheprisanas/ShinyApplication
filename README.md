@@ -22,3 +22,13 @@ install.packages("package_name")
 
 #IMPORTANT
 KEEP UI.R AND SERVER.R IN SAME DIRECTORY
+
+#Images:
+images output1,line-chart shows the original output of this shiny dashboard.
+
+#Issues:
+1.I have tried to use d3r library in R. but while creating the chart it shows and error to the plot function.
+There are several other libraries by using which we can create interactive web applications using R.
+
+Thank you!
+Author:Shriram Salunkhe.
