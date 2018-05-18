@@ -2,6 +2,10 @@
 This is the shiny dashboard application where we can visualize different charts.
 
 What is shiny:
+Shiny is an open source R package that provides an elegant and powerful web framework for building web applications using R. Shiny helps you turn your analyses into interactive web applications without requiring HTML, CSS, or JavaScript knowledge.
+#Website:https://shiny.rstudio.com/
+
+
 
 #steps to follow to run this application
 1. Install Rstudio
