@@ -18,3 +18,7 @@ install.packages("package_name")
   4.library(htmltools)
   5.library(ggplot2)
   6.library("highcharter")
+
+
+#IMPORTANT
+KEEP UI.R AND SERVER.R IN SAME DIRECTORY
